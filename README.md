@@ -119,7 +119,7 @@ The API calls are handled using Axios in the `api.js` file located in the `src/a
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Codexnever/MERN-Stack-Challenge.git
    cd <project-directory>
    ```
 
